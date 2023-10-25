@@ -11,6 +11,7 @@
       - https://www.linkedin.com/in/aviral-backend/
       - https://wellfound.com/profile/edit/resume
       - https://www.instahyre.com/candidate/profile/
+      - https://www.naukri.com/mnjuser/profile?id=&altresid
 
 
 
