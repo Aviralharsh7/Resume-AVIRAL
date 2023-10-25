@@ -10,6 +10,7 @@
 6. Update drive links on
       - https://www.linkedin.com/in/aviral-backend/
       - https://wellfound.com/profile/edit/resume
+      - https://www.instahyre.com/candidate/profile/
 
 
 
